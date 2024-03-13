@@ -1,0 +1,8 @@
+<resources>
+
+    <string name="module_name_rxfeature">RxFeature</string>
+
+    <string name="app_name">App</string>
+    <string name="scan_code_auto">将二维码图片对准扫描框即可自动扫描</string>
+
+</resources>
